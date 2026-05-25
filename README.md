@@ -276,11 +276,11 @@ The server starts on http://localhost:8000. The Vite dev server automatically pr
 
 Built by students at the University of Maryland for the NourishNet Data Challenge 2026.
 
-- Rishi Kanaparti
-- Sai Pavan
-- Sai Teja
-- Sai Kiran
-- Sai Pranay
+- Rishabh Ranka
+- Harsh Shrishrimal
+- Sahil CHordia
+- Rishika Thakre
+- Jiten Bhalavat
 
 
 ## License
