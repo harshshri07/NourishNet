@@ -278,7 +278,7 @@ Built by students at the University of Maryland for the NourishNet Data Challeng
 
 - Rishabh Ranka
 - Harsh Shrishrimal
-- Sahil CHordia
+- Sahil Chordia
 - Rishika Thakre
 - Jiten Bhalavat
 
